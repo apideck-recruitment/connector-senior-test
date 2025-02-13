@@ -68,7 +68,7 @@ Format for each answer:
 
 2. Once you've completed the assessment:
    - Grant repository access to `engineering@apideck.com`
-   - Send an email to hiring manager with your repository URL
+   - Send an email to the hiring manager with your repository URL
 
 ## Evaluation Criteria
 
