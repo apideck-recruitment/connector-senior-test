@@ -59,8 +59,16 @@ Format for each answer:
 
 ## Submission Guidelines
 
-1. Submit your code implementation as a PR to this repo.
-2. Include your system design answers inside `/docs`
+1. Create a new private repository using this repository as a template:
+   - Click the "Use this template" button at the top of this repository
+   - Select "Create a new repository"
+   - Make sure to set the repository as "Private"
+   - Choose a name for your repository
+   - Click "Create repository from template"
+
+2. Once you've completed the assessment:
+   - Grant repository access to `engineering@apideck.com`
+   - Send an email to hiring manager with your repository URL
 
 ## Evaluation Criteria
 
